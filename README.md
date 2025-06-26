@@ -1,1 +1,1 @@
-# astrosciences-ecuador
+# Astro Conference
