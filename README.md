@@ -1,1 +1,1 @@
-# Astro Conference
+# eSPACE Conference 2026
